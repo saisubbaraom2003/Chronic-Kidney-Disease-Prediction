@@ -94,35 +94,48 @@ python src/evaluate.py
 ```bash
 streamlit run app/app.py
 ```
-🌐 Live Demo
+## 🌐 Live Demo
+
 You can view the live demo of the Kidney Disease Prediction Model [here](https://ckd-a17m.onrender.com).
 
-🛠️ Tech Stack
-Languages & Libraries: Python 3.x, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+## 📊 Model Evaluation
 
-Deployment: Streamlit / Flask (local or cloud-based: AWS, Azure, Render)
+The model performance is evaluated using metrics like:
 
-Version Control: Git & GitHub
+-   Accuracy
+-   Precision
+-   Recall
+-   F1-Score
+-   ROC-AUC
 
-📈 Future Enhancements
-Hyperparameter tuning for better accuracy
+## 🛠️ Tech Stack
 
-Cross-validation strategies
+-   Python 3.x
+-   Pandas
+-   NumPy
+-   Scikit-learn
+-   Matplotlib
+-   Seaborn
+-   Streamlit / Flask (optional for deployment)
 
-Cloud deployment (AWS/GCP) with CI/CD pipelines
+## 📈 Future Work
 
-Model interpretability (SHAP, LIME)
+-   Hyperparameter tuning
+-   Cross-validation
+-   Deployment to cloud platforms (AWS, GCP, etc.)
+-   Model explainability using SHAP/LIME
 
-🤝 Contributions
-Pull requests are welcome!
-For major changes, open an issue first to discuss your suggestions.
+## 🤝 Contributing
 
-📄 License
+Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
+
+## 📄 License
+
 This project is licensed under the MIT License.
 
-📬 Contact
-For any queries or feedback:
-📧 sai.subbu.in@gmail.com
+## Contact
+For any queries, contact me sai.subbu.in@gmail.com
 
-Author: Sai Subba Rao Mahendrakar
-📅 Date: 26 February 2025
+---
+**Author:** Sai Subba Rao Mahendrakar  
+**Date:** 26 February 2025  
